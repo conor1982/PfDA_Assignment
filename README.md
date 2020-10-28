@@ -1,5 +1,5 @@
 # PfDA_Assignment
-! [Numpy Logo](https://en.wikipedia.org/wiki/NumPy#/media/File:NumPy_logo_2020.svg)
+![Numpy_Logo.png](attachment:Numpy_Logo.png)
 Repo for the Programming for Data Analysis Assignment
 
 # Project Plan (PP) and Overview
